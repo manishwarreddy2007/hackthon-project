@@ -1,0 +1,2 @@
+[functions.register-user]
+verify_jwt = false
